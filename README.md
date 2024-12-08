@@ -1,3 +1,5 @@
+![Preview Image](OIP.jpg)
+
 Roblox Blox Fruits Script
 
 Welcome to the Blox Fruits Script GitHub repository! ⚡️
